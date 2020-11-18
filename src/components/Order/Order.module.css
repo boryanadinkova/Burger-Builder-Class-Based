@@ -1,0 +1,19 @@
+.Order {
+  width: 80%;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+
+.OrderPod {
+  text-transform: capitalize;
+  display: inline-block;
+  margin: 0 8px;
+  border: 2px solid saddlebrown;
+  padding: 5px;
+  border-radius: 2px;
+  color: saddlebrown;
+  /* background-color: #F4A560 */
+}

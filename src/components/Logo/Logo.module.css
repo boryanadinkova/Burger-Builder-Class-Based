@@ -1,0 +1,14 @@
+.Logo {
+  padding: 8px;
+  height: 100%;
+  background-color:saddlebrown ;
+  box-sizing: border-box;
+  border: 2px solid sandybrown;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.Logo img {
+  height: 100%;
+}   
